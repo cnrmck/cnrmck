@@ -2,7 +2,7 @@
 - 👀 I’m interested in the internet computer, Coda integrations, heuristic search for NP-Complete problems
 - 🌱 I’m currently learning rust!
 - 💞️ I’m looking to collaborate on token standards.
-- 📫 How to reach me connor at supsync.com
+- 📫 Reach me at: connor at supsync.com
 
 <!---
 cnrmck/cnrmck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
